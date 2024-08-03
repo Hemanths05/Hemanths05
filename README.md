@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Music Player Application**
 
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning **Cloud Technologies & Full-Stack Development**
 
 - 📫 How to reach me **hemanthsit05@gmail.com**
 
