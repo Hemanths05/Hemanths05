@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanths05&label=Profile%20views&color=0e75b6&style=flat" alt="hemanths05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanths05" alt="hemanths05" /></a> </p>
-
 - 🔭 I’m currently working on **Music Player Application**
 
-- 🌱 I’m currently learning **Cloud Technologies & Full-Stack Development**
+- 🌱 I’m currently learning **Cloud Technologies**
 
 - 📫 How to reach me **hemanthsit05@gmail.com**
 
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanths05&show_icons=true&locale=en" alt="hemanths05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanths05&" alt="hemanths05" /></p>
+
